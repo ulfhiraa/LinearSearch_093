@@ -42,8 +42,14 @@ void LinearSearch()
 		cin >> item;
 
 		comparasion = 0;
-		for (i = 0; i < n; i++)
-
+		for (i = 0; i < n; i++)    // langkah 2 dan 4
+		{
+			comparasion++;
+			if (arr[i] == item)
+			{
+					cout << "	"
+			}
+		}
 	}
 
 
