@@ -33,4 +33,12 @@ void LinearSearch()
 {
 	char ch;
 	int comparasion;       // Number of comparasions
+
+	do                 // Langkah 3
+	{
+		   // Accept the number to be searched
+			cout << "\n Enter the element you want to search"  // Langkah 1
+	}
+
+
 }
